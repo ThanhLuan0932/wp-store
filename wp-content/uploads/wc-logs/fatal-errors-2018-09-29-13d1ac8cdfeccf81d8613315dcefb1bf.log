@@ -1,0 +1,19 @@
+2018-09-29T01:09:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-29T01:25:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-29T09:08:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-29T09:38:06+00:00 CRITICAL Uncaught Exception: Undefined field id. in C:\xampp\htdocs\wpstore\wp-content\plugins\wp-all-import\models\model\record.php:148
+Stack trace:
+#0 C:\xampp\htdocs\wpstore\wp-content\plugins\wp-all-import\controllers\admin\import.php(2413): PMXI_Model_Record->__get('id')
+#1 C:\xampp\htdocs\wpstore\wp-content\plugins\wp-all-import\plugin.php(583): PMXI_Admin_Import->process()
+#2 C:\xampp\htdocs\wpstore\wp-includes\class-wp-hook.php(286): PMXI_Plugin->adminInit('')
+#3 C:\xampp\htdocs\wpstore\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wpstore\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wpstore\wp-admin\admin.php(156): do_action('admin_init')
+#6 {main}
+  thrown
+
+2018-09-29T09:48:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+

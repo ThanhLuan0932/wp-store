@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[1]]></id>
+		<tn><![CDATA[Bàn phím Logitech Gaming G213]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ ]]></mtngn>
+		<mt><![CDATA[Bàn phím sử dụng nút bấm cao su (rubber dome) không gây tiếng ồn.]]></mt>
+		<gibnthng><![CDATA[990000]]></gibnthng>
+		<danhmc><![CDATA[Bàn phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím cơ, logitech]]></tkha>
+		<hnhnh><![CDATA[logitech_gaming_g213.png]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Led RGB 16,8 triệu màu tuỳ chỉnh bằng phần mềm Logitech Gaming Software.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Thiết kế kê tay liền phím chống mỏi.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Tích hợp các phím đa chức năng.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Nút khoá phím Window (window lock) phục vụ chơi game tránh bấm nhầm.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Tần số quét / tốc độ phản hồi 1000Hz / 1ms.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Layout ANSI tiêu chuẩn.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[2]]></id>
+		<tn><![CDATA[Bàn phím bán cơ Newmen GM100S USB Full-size LED xuyên chữ]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ ]]></mtngn>
+		<mt><![CDATA[- Bàn phím cao su thiết kế chống nước.]]></mt>
+		<gibnthng><![CDATA[399000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn bán phím cơ, Newmen]]></tkha>
+		<hnhnh><![CDATA[bàn phím bán cơ Newmen.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Dây cáp bọc dù chống đứt.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Ký tự được in laser bền bỉ.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Hệ thống đèn nền 7 màu tuỳ chỉnh.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Tích hợp các chức năng multimedia và khoá phím windows phục vụ chơi game.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[3]]></id>
+		<tn><![CDATA[Bàn phím SteelSeries Apex 100]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ ]]></mtngn>
+		<mt><![CDATA[- Bàn phím cao su với cảm ứng điện dung tuổi thọ lên tới 20 triệu lượt bấm.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Toàn bộ đèn nền màu xanh dương trên từng phím.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- 24 phím anti-ghosting.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Tích hợp các phím đa phương tiện trên hàng F, kích hoạt cùng phím FN (logo Steelseries).]]></mt>
+		<gibnthng><![CDATA[899000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, SteelSerires]]></tkha>
+		<hnhnh><![CDATA[steelseries-apex-100-gaming.png]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Tích hợp chức năng khoá phím Window phục vụ chơi game]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[4]]></id>
+		<tn><![CDATA[Bàn phím cơ Corsair K63 Wireless]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ chuyên cho game thủ]]></mtngn>
+		<mt><![CDATA[- Loại switch : CherryMX Red]]></mt>
+		<gibnthng><![CDATA[2990000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím cơ, Corsair]]></tkha>
+		<hnhnh><![CDATA[Corsair K63.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Khối lượng: 1.09 kg]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kết nối: 2.4Ghz Wireless, Bluetooth 4.2 + LE]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Tốc độ phản hồi : 1000hz/1ms]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Thiết kế : Tenkeyless]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Phụ kiện đi kèm : Kê tay]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[5]]></id>
+		<tn><![CDATA[Bàn phím cơ Fuhlen Eraser Kailh]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ ]]></mtngn>
+		<mt><![CDATA[- Công nghệ: switch cơ quang học.]]></mt>
+		<gibnthng><![CDATA[799000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím cơ, Fuhlen]]></tkha>
+		<hnhnh><![CDATA[Fuhlen Eraser.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Số phím 104 phím]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kích thước: 443 x 220.5 x 41mm]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Chuẩn kết nối: Usb 2.0]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Switch: Blue]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Hỗ trợ phím: Khóa window, anti ghost, tăng giảm độ sáng và chuyển động led, nhiều chế độ chuyển led, multi media]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Led 7 màu]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[6]]></id>
+		<tn><![CDATA[Bàn phím Mitsumi (KFK-EA4XT)]]></tn>
+		<mtngn><![CDATA[Bàn phím văn phòng]]></mtngn>
+		<mt><![CDATA[- Màu Đen]]></mt>
+		<gibnthng><![CDATA[180000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím văn phòng, Mitsumi]]></tkha>
+		<hnhnh><![CDATA[Mitsumi.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kết nối USB 2.0]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Chất liệu Nhựa]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kích thước sản phẩm (D x R x C cm) 30x10x2]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Trọng lượng (KG) 0.2]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Loại bàn phím Wired]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[7]]></id>
+		<tn><![CDATA[Bàn phím Asus ROG Strix Flare]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ chuyên cho game thủ]]></mtngn>
+		<mt><![CDATA[- Các switch phím cơ Cherry MX RGB được sản xuất tại Đức mang lại cảm giác cơ học hài hòa]]></mt>
+		<gibnthng><![CDATA[3990000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím cơ, bàn phím chơi game, ASUS]]></tkha>
+		<hnhnh><![CDATA[ASUS.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- công nghệ chiếu sáng Aura Sync RGB]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Các bàn phím đa phương tiện chuyên dụng và núm xoay điều chỉnh âm lượng, một cổng USB để kết nối dễ dàng và tấm đệm cổ tay mềm có thể tháo rời.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[8]]></id>
+		<tn><![CDATA[Bàn phím Dell USB]]></tn>
+		<mtngn><![CDATA[Bàn phím văn phòng]]></mtngn>
+		<mt><![CDATA[- Hãng Dell]]></mt>
+		<gibnthng><![CDATA[160000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím văn phòng, Dell]]></tkha>
+		<hnhnh><![CDATA[Dell.png]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Thiết kế đơn giản]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Chất liệu gia công cao cấp]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[9]]></id>
+		<tn><![CDATA[Bàn phím Genius 110X USB]]></tn>
+		<mtngn><![CDATA[Bàn phím văn phòng]]></mtngn>
+		<mt><![CDATA[- Bàn phím giá rẻ, chức năng ổn định]]></mt>
+		<gibnthng><![CDATA[110000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím văn phòng, Genius]]></tkha>
+		<hnhnh><![CDATA[Genius.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Thiết kế tiêu chuẩn fullsize]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kết nối USB 2.0]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kích thước 162x456x25.5 mm]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Bảo hành 12 tháng]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[10]]></id>
+		<tn><![CDATA[Bàn phím Razer BlackWidow X Chroma RGB]]></tn>
+		<mtngn><![CDATA[Bàn phím cơ chuyên cho game thủ]]></mtngn>
+		<mt><![CDATA[- Thiết kế đẹp mắt - LED RGB tùy biến]]></mt>
+		<gibnthng><![CDATA[3890000]]></gibnthng>
+		<danhmc><![CDATA[Bàn Phím]]></danhmc>
+		<tkha><![CDATA[Bàn phím, bàn phím cơ, bàn phím chơi game, Razer]]></tkha>
+		<hnhnh><![CDATA[
+Razer BlackWidow X.jpg]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Dây USB chắc chắn và bền bỉ]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Kết cấu phù hợp cho chơi các game FPS / MOBA]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+	<node>
+		<id><![CDATA[]]></id>
+		<tn><![CDATA[]]></tn>
+		<mtngn><![CDATA[]]></mtngn>
+		<mt><![CDATA[- Switch cơ học của Razer được tinh chỉnh nhằm đem lại tốc độ gõ và độ phải hồi tốt nhất.]]></mt>
+		<gibnthng><![CDATA[]]></gibnthng>
+		<danhmc><![CDATA[]]></danhmc>
+		<tkha><![CDATA[]]></tkha>
+		<hnhnh><![CDATA[]]></hnhnh>
+	</node>
+</data>
